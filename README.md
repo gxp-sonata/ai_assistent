@@ -3,9 +3,9 @@
 
 Ссылка на проект - @gxpsonataplusannex1_bot
 
-![Скриншот 1](https://github.com/gxp-sonata/ai_assistent/blob/main/2025-07-19_20-44-28.png?raw=true)
+[Скриншот 1](https://github.com/gxp-sonata/ai_assistent/blob/main/2025-07-19_20-44-28.png?raw=true)
 
-![Скриншот 2](https://github.com/gxp-sonata/ai_assistent/blob/main/2025-07-19_20-45-02.png?raw=true)
+[Скриншот 2](https://github.com/gxp-sonata/ai_assistent/blob/main/2025-07-19_20-45-02.png?raw=true)
 
 ## Описание проекта
 
